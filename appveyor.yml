@@ -7,7 +7,9 @@ environment:
       CMAKE_CONFIG: Release
       CMAKE_BUILD_SHARED_LIBS: 1
       PYTHON_VERSION: 3
-      WITH_CUDA: 1        
+      WITH_CUDA: 1
+      BUILD_PYTHON_LAYER: 0
+      BUILD_PYTHON: 0
 
 
 
