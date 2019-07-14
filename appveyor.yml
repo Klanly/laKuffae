@@ -10,6 +10,7 @@ environment:
       WITH_CUDA: 1
       BUILD_PYTHON_LAYER: 0
       BUILD_PYTHON: 0
+      RUN_TESTS: 0
 
 
 
